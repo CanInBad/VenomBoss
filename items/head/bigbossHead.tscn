@@ -1,8 +1,8 @@
 [gd_scene load_steps=14 format=2]
 
 [ext_resource path="res://Player/Player3D/Parts/Part3D.tscn" type="PackedScene" id=1]
-[ext_resource path="res://Modules/PartOrientPicker/PartOrientPicker.tscn" type="PackedScene" id=2]
-[ext_resource path="res://Modules/PartOrientPicker/PartOrient.tscn" type="PackedScene" id=3]
+[ext_resource path="res://Player/Player3D/Parts/PartOrientPicker.tscn" type="PackedScene" id=2]
+[ext_resource path="res://Player/Player3D/Parts/PartOrient.tscn" type="PackedScene" id=3]
 [ext_resource path="res://Modules/VenomBoss/items/head/bigbossHeadL.png" type="Texture" id=4]
 
 [sub_resource type="StreamTexture" id=29]
